@@ -18,6 +18,9 @@ correlation_*/
 # Working scripts
 process_all_correlations.py
 
+# Working docs
+CHANGELOG.md
+
 # Autograder results (comes via pull)
 grade.json
 
