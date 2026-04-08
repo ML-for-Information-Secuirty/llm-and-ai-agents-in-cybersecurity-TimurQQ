@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.pyc
+*.pyo
+
+# Working directories
+src/
+archives/
+materials/
+HW/
+
+# Unpacked archive directories
+windows_correlation_rules/
+correlation_*/
+
+# Working scripts
+process_all_correlations.py
+
+# Autograder results (comes via pull)
+grade.json
+
+# IDE and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
